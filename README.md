@@ -1,15 +1,13 @@
-# Helo! I'm Toastyzz0 / CinnamonToast!👋
+# Helo! I'm Toastyzz0 / Nikodoesdev!👋
 
-I somewhat know how to code.
-
-[Main Discord Server](https://discord.gg/RdR5vq7HNv)
+I work on stuff! :D
 
 ## Who Am I?
 Just a guy named Toastyzz0 / CinnamonToast who somewhat knows how to code.
 
 
 ## What do I code in?
-[![What do I code in?](https://skillicons.dev/icons?i=js,html,css,py,md,github,vscode)](https://skillicons.dev)
+[![What do I code in?](https://skillicons.dev/icons?i=js,html,css,py,md,github,vscode,electron)](https://skillicons.dev)
 
 ## What am I doing?
 - 🔭 I’m currently working on [LeafLink](https://github.com/Toastyzz0/LeafLink) & [Javashark Extensions](https://github.com/jefisalreadytkn/javashark-extensions).
