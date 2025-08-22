@@ -1,9 +1,9 @@
-# Helo! I'm Toastyzz0 / Nikodoesdev!👋
+# Helo! I'm Toastyzz0!👋
 
 I work on stuff! :D
 
 ## Who Am I?
-Just a guy named Toastyzz0 / CinnamonToast who somewhat knows how to code.
+Just a guy named Toastyzz0 who somewhat knows how to code.
 
 
 ## What do I code in?
