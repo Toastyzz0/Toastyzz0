@@ -10,11 +10,11 @@ Just a guy named Toastyzz0 who somewhat knows how to code.
 [![What do I code in?](https://skillicons.dev/icons?i=js,html,css,py,md,github,vscode,electron)](https://skillicons.dev)
 
 ## What am I doing?
-- 🔭 I’m currently working on toastLauncher & [Helpful But Tiny](https://github.com/Toastyzz0/HelpfulButTiny/).
+- 🔭 I’m currently working on toastLauncher and other side projects.
 - 🌱 I’m currently learning [JavaScript](https://www.javascript.com/).
 - 👯 I’m looking to collaborate on Nothing.
-- 🤔 I’m looking for help with [PenguinMod](https://penguinmod.com), [JavaScript](https://javascript.com), & [C#](https://dotnet.microsoft.com/en-us/languages/csharp).
-- 💬 Ask me about my Mental Health!
+- 🤔 I’m looking for help with [PenguinMod](https://penguinmod.com), [JavaScript](https://javascript.com), [C#](https://dotnet.microsoft.com/en-us/languages/csharp), & Python.
+- 💬 Ask me about my Mental Health and some of my projects.
 - 📫 How to reach me: [Contact Email](mailto:toastyzz.contact@yahoo.com).
 - 😄 Pronouns: He / Him.
 - ⚡ Fun fact: I have 0 knowledge on what I'm doing.
