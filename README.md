@@ -19,11 +19,6 @@ Just a guy named Toastyzz0 who somewhat knows how to code.
 - 😄 Pronouns: He / Him.
 - ⚡ Fun fact: I have 0 knowledge on what I'm doing.
 
-
-## Github Stats:
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Toastyzz0&show_icons=true&theme=dark)](https://github.com/Toastyzz0)
-
  ## Contact Me:
 [![Contact Me:](https://skillicons.dev/icons?i=discord)](https://discord.gg/RdR5vq7HNv) [![Contact Me:](https://skillicons.dev/icons?i=gmail)](mailto:toastyzz.contact@yahoo.com) [![Contact Me:](https://skillicons.dev/icons?i=twitter)](https://x.com/Toastyzz0) [![Contact Me:](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/toastyzz0/)
 
