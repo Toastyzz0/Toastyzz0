@@ -1,25 +1,27 @@
-# Hello! I'm Toastyzz0!👋
+# *Hello, Hello! 👋*
+ 
+**I'm Toastyzz0** - I make random projects that most likely don't get used by other people. I like talking to friends who some also like to code and also make projects with them.
 
-I work on stuff! :D
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,cpp,electron,github,nextjs,discord&theme=dark)](https://skillicons.dev)
 
-## Who Am I?
-Just a guy named Toastyzz0 who somewhat knows how to code.
+<a href="https://discord.com"><img src="https://dcbadge.limes.pink/api/shield/1093489076470034442?theme=plastic" /></a>
 
+<details>
+  <summary>What I'm doing on discord:</summary>
+  
+  [![Discord Presence](https://lanyard.cnrad.dev/api/1093489076470034442?theme=dark&borderRadius=25px&bg=0b1e2b&hideTag=true)](https://discord.com/users/1093489076470034442)
+</details>
 
-## What do I code in?
-[![What do I code in?](https://skillicons.dev/icons?i=js,html,css,py,md,github,vscode,electron)](https://skillicons.dev)
+<details>
+  <summary>My Github Projects:</summary>
 
-## What am I doing?
-- 🔭 I’m currently working on toastLauncher and other side projects.
-- 🌱 I’m currently learning [JavaScript](https://www.javascript.com/).
-- 👯 I’m looking to collaborate on Nothing.
-- 🤔 I’m looking for help with [PenguinMod](https://penguinmod.com), [JavaScript](https://javascript.com), [C#](https://dotnet.microsoft.com/en-us/languages/csharp), & Python.
-- 💬 Ask me about my Mental Health and some of my projects.
-- 📫 How to reach me: [Contact Email](mailto:toastyzz.contact@yahoo.com).
-- 😄 Pronouns: He / Him.
-- ⚡ Fun fact: I have 0 knowledge on what I'm doing.
+  - Squiggly - A music/MP4 manager in Python.
+  - Basiclly, Jump! - A 2D parkour game.
+  - Natter - A messaging app in React Native.
+  - Respawn - A Roblox Remake made in Penguinmod.
 
- ## Contact Me:
-[![Contact Me:](https://skillicons.dev/icons?i=discord)](https://discord.gg/RdR5vq7HNv) [![Contact Me:](https://skillicons.dev/icons?i=gmail)](mailto:toastyzz.contact@yahoo.com) [![Contact Me:](https://skillicons.dev/icons?i=twitter)](https://x.com/Toastyzz0) [![Contact Me:](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/toastyzz0/)
+And more.
+(just too lazy to add them)
+</details>
 
-
+Need to contact me? Use my [Contact Email](mailto://toastyzz.contact@yahoo.com).
