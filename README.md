@@ -7,12 +7,14 @@
 <a href="https://discord.com"><img src="https://dcbadge.limes.pink/api/shield/1093489076470034442?theme=plastic" /></a>
 
 <details>
+
   <summary>What I'm doing on discord:</summary>
   
   [![Discord Presence](https://lanyard.cnrad.dev/api/1093489076470034442?theme=dark&borderRadius=25px&bg=0b1e2b&hideTag=true)](https://discord.com/users/1093489076470034442)
 </details>
 
 <details>
+
   <summary>My Github Projects:</summary>
 
   - Squiggly - A music/MP4 manager in Python.
@@ -25,3 +27,4 @@ And more.
 </details>
 
 Need to contact me? Use my [Contact Email](mailto://toastyzz.contact@yahoo.com).
+<br>
